@@ -12,7 +12,7 @@ description: "夜行神龙白天要睡觉"
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
+avatar: https://n.sinaimg.cn/spider2020316/316/w727h389/20200316/2a8d-iquxrui7668492.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
 
@@ -36,14 +36,14 @@ excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/348123646
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: ye-xing-shen-long
+  email: ybyvbin1@gmail.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: ybyvbin
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -63,10 +63,10 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: Ov23lim5p17lB1t9IViQ
+  clientSecret: b9a70f83ed28917ce3759b920131a6e6a6620fb4
+  repo: ybyvbin.github.io
+  owner: ybyvbin
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
